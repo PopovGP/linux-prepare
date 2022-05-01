@@ -1,2 +1,2 @@
 # linux-prepare
-Script for add some options for a fresh linux installation
+Script to add some options for a fresh linux installation
